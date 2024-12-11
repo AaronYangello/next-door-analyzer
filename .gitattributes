@@ -1,0 +1,2 @@
+nextdoor_data/neighborhoods.csv filter=lfs diff=lfs merge=lfs -text
+nextdoor_data/posts.csv filter=lfs diff=lfs merge=lfs -text

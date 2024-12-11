@@ -1,0 +1,10 @@
+cookies/
+link_files/
+neighborhood_links.py
+copy_to_master.py
+account_creator.py
+cookie_scraper.py
+file_splitter.py
+get_remaining_links.py
+log.txt
+temp*
