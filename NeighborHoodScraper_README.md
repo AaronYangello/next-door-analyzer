@@ -1,8 +1,5 @@
-README
-================
-
 Nextdoor Web Scraper
---------------------
+================
 
 ### Overview
 

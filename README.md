@@ -1,8 +1,6 @@
-README
+Nextdoor Data Collection and Analysis
 ================
 
-Nextdoor Data Collection and Analysis
---------------------------------------
 
 This repository contains two Python scripts for collecting and analyzing data from Nextdoor, a social network for neighbors.
 
